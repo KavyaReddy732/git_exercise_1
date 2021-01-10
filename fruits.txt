@@ -1,3 +1,5 @@
 Apple
-Banana
+banana
 Cherry
+Dragon fruit
+Dates
