@@ -1,3 +1,6 @@
 Apple
-berry
+orange
+Cherry
+Dragon fruit
+Dates
 Cherry
